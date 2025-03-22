@@ -12,7 +12,7 @@ JSON Server
 React Router
 ⚙️ Setup Instructions
 1. Clone the repository:
-git clone 
+git clone https://github.com/BabithaReddy7/rewards-dashboard/
 2. Install dependencies: cd Reward-Dashboard npm install
 3. Start the backend: json-server --watch db.json --port 5000
 4. Start the frontend: npm start
